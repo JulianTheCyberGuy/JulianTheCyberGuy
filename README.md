@@ -44,10 +44,6 @@ I can solve a Rubik's cube in under a minute!
 ![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianTheCyberGuy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianTheCyberGuy&layout=compact&theme=radical)
 
-## 🔗 Links
-- [Portfolio](https://your-portfolio-link.com)
-- [Blog](https://your-blog-link.com)
-
 ## 🤝 Let’s Connect
 If you're interested in cybersecurity or want to collaborate, feel free to reach out or explore my repositories!
 
