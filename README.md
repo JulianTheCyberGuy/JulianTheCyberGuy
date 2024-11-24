@@ -11,7 +11,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" width="150" />
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
@@ -32,5 +31,6 @@ If you're interested in cybersecurity or want to collaborate, feel free to reach
 
 ## 🚀 Recent Activity
 [![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=JulianTheCyberGuy&theme=radical)](https://github.com/JulianTheCyberGuy)
+
 
 
