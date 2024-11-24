@@ -3,7 +3,7 @@
 - 👀 **I’m interested in** Cybersecurity, Ethical Hacking, and Open Source Projects.
 - 🌱 **I’m currently learning** Advanced Penetration Testing and Cloud Security.
 - 💞️ **I’m looking to collaborate on** Security Tools and Automation Scripts.
-- 📫 **How to reach me**: [Instagram](https://www.instagram.com/julianflorezcamel/target=_blank)
+- 📫 **How to reach me**: [Instagram](https://www.instagram.com/julianflorezcamel/)
 - 😄 **Pronouns**: He/Him
 - ⚡ **Fun fact**: I can solve a Rubik's cube in under a minute!
 
